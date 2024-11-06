@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from my_robot_interfaces/srv/AreaOfRectangle.srv
+// generated code does not contain a copyright notice
+
+
+module my_robot_interfaces {
+  module srv {
+    struct AreaOfRectangle_Request {
+      double length;
+
+      double breadth;
+    };
+    struct AreaOfRectangle_Response {
+      double area;
+    };
+  };
+};

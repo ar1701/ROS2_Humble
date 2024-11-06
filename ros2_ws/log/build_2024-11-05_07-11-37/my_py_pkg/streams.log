@@ -1,0 +1,28 @@
+[0.662s] Invoking command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg': CMAKE_PREFIX_PATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_robot_interfaces:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg PYTHONPATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build --no-deps symlink_data
+[0.955s] running develop
+[0.955s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.956s]   warnings.warn(
+[1.156s] running egg_info
+[1.156s] writing my_py_pkg.egg-info/PKG-INFO
+[1.156s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[1.156s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[1.157s] writing requirements to my_py_pkg.egg-info/requires.txt
+[1.157s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[1.158s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.159s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.214s] running build_ext
+[1.214s] Creating /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[1.215s] Installing add_two_ints_client script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.215s] Installing add_two_ints_client_no_oop script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.215s] Installing add_two_ints_server script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.215s] Installing battery_node script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.216s] Installing hw_status_publisher script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.216s] Installing led_status_node script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.216s] Installing number_counter script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.216s] Installing py_node script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.216s] Installing robot_news_station script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.216s] Installing smartphone script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.217s] 
+[1.217s] Installed /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg
+[1.217s] running symlink_data
+[1.251s] Invoked command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg' returned '0': CMAKE_PREFIX_PATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_robot_interfaces:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg PYTHONPATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build --no-deps symlink_data

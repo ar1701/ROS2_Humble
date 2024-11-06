@@ -1,0 +1,4 @@
+/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/HardwareStatus.idl
+/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/LedStatus.idl
+/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/AreaOfRectangle.idl
+/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/SetLed.idl

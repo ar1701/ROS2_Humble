@@ -1,0 +1,31 @@
+[0.909s] Invoking command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/src/build/my_py_pkg': PYTHONPATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/src/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/Desktop/Learning_ROS2/ros2_ws/src/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/build/my_py_pkg/build --no-deps symlink_data
+[1.186s] running develop
+[1.187s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.187s]   warnings.warn(
+[1.370s] running egg_info
+[1.371s] creating my_py_pkg.egg-info
+[1.371s] writing my_py_pkg.egg-info/PKG-INFO
+[1.371s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[1.371s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[1.371s] writing requirements to my_py_pkg.egg-info/requires.txt
+[1.371s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[1.371s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.373s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.373s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.424s] running build_ext
+[1.424s] Creating /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[1.425s] Installing add_two_ints_client = my_py_pkg.add_two_ints_client:mainhw_status_publisher script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/install/my_py_pkg/lib/my_py_pkg
+[1.426s] Installing add_two_ints_client_no_oop script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/install/my_py_pkg/lib/my_py_pkg
+[1.426s] Installing add_two_ints_server script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/install/my_py_pkg/lib/my_py_pkg
+[1.426s] Installing py_node script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/install/my_py_pkg/lib/my_py_pkg
+[1.426s] Installing robot_news_station script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/install/my_py_pkg/lib/my_py_pkg
+[1.426s] Installing smartphone script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/install/my_py_pkg/lib/my_py_pkg
+[1.426s] 
+[1.427s] Installed /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/build/my_py_pkg
+[1.427s] running symlink_data
+[1.427s] creating /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/install/my_py_pkg/share/ament_index
+[1.427s] creating /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/install/my_py_pkg/share/ament_index/resource_index
+[1.427s] creating /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/install/my_py_pkg/share/ament_index/resource_index/packages
+[1.427s] symbolically linking /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/build/my_py_pkg/resource/my_py_pkg -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/install/my_py_pkg/share/ament_index/resource_index/packages
+[1.427s] symbolically linking /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/build/my_py_pkg/package.xml -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/install/my_py_pkg/share/my_py_pkg
+[1.458s] Invoked command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/src/build/my_py_pkg' returned '0': PYTHONPATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/src/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/Desktop/Learning_ROS2/ros2_ws/src/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ayush/Desktop/Learning_ROS2/ros2_ws/src/build/my_py_pkg/build --no-deps symlink_data

@@ -1,0 +1,27 @@
+[0.012s] Invoking command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg -- -j8 -l8
+[0.077s] [ 33%] Built target smartphone
+[0.080s] [ 66%] Built target cpp_node
+[0.088s] [100%] Built target robot_news_station
+[0.103s] Invoked command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg -- -j8 -l8
+[0.154s] Invoking command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg
+[0.164s] -- Install configuration: ""
+[0.164s] -- Execute custom install script
+[0.165s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/cpp_node
+[0.165s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/robot_news_station
+[0.165s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/smartphone
+[0.166s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/my_cpp_pkg
+[0.166s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/my_cpp_pkg
+[0.166s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.sh
+[0.166s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.dsv
+[0.167s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.sh
+[0.167s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.dsv
+[0.167s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.bash
+[0.168s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.sh
+[0.168s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.zsh
+[0.168s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.dsv
+[0.168s] -- Symlinking: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.dsv
+[0.178s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/packages/my_cpp_pkg
+[0.179s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig.cmake
+[0.179s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig-version.cmake
+[0.179s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.xml
+[0.182s] Invoked command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg

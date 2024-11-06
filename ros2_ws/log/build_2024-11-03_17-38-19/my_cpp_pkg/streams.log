@@ -1,0 +1,33 @@
+[0.012s] Invoking command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg -- -j8 -l8
+[0.096s] [ 16%] [32mBuilding CXX object CMakeFiles/cpp_node.dir/src/my_first_node.cpp.o[0m
+[0.096s] [ 33%] [32mBuilding CXX object CMakeFiles/robot_news_station.dir/src/robot_news_station.cpp.o[0m
+[0.100s] [ 50%] [32mBuilding CXX object CMakeFiles/smartphone.dir/src/smartphone.cpp.o[0m
+[5.546s] [ 66%] [32m[1mLinking CXX executable cpp_node[0m
+[5.749s] [ 66%] Built target cpp_node
+[6.821s] [ 83%] [32m[1mLinking CXX executable robot_news_station[0m
+[7.122s] [ 83%] Built target robot_news_station
+[11.053s] [100%] [32m[1mLinking CXX executable smartphone[0m
+[11.488s] [100%] Built target smartphone
+[11.498s] Invoked command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg -- -j8 -l8
+[11.526s] Invoking command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg
+[11.532s] -- Install configuration: ""
+[11.533s] -- Execute custom install script
+[11.534s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/cpp_node
+[11.535s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/robot_news_station
+[11.535s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/smartphone
+[11.535s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/my_cpp_pkg
+[11.536s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/my_cpp_pkg
+[11.536s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.sh
+[11.536s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.dsv
+[11.537s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.sh
+[11.537s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.dsv
+[11.537s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.bash
+[11.538s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.sh
+[11.538s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.zsh
+[11.538s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.dsv
+[11.538s] -- Symlinking: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.dsv
+[11.547s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/packages/my_cpp_pkg
+[11.547s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig.cmake
+[11.548s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig-version.cmake
+[11.548s] -- Up-to-date symlink: /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.xml
+[11.550s] Invoked command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_cpp_pkg

@@ -1,0 +1,37 @@
+[1.285s] Invoking command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/src/turtlesim_project': PYTHONPATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlesim_project build --build-base /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/build install --record /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/install.log --single-version-externally-managed install_data
+[1.760s] running egg_info
+[1.761s] creating ../../build/turtlesim_project/turtlesim_project.egg-info
+[1.762s] writing ../../build/turtlesim_project/turtlesim_project.egg-info/PKG-INFO
+[1.762s] writing dependency_links to ../../build/turtlesim_project/turtlesim_project.egg-info/dependency_links.txt
+[1.762s] writing entry points to ../../build/turtlesim_project/turtlesim_project.egg-info/entry_points.txt
+[1.762s] writing requirements to ../../build/turtlesim_project/turtlesim_project.egg-info/requires.txt
+[1.762s] writing top-level names to ../../build/turtlesim_project/turtlesim_project.egg-info/top_level.txt
+[1.763s] writing manifest file '../../build/turtlesim_project/turtlesim_project.egg-info/SOURCES.txt'
+[1.765s] reading manifest file '../../build/turtlesim_project/turtlesim_project.egg-info/SOURCES.txt'
+[1.766s] writing manifest file '../../build/turtlesim_project/turtlesim_project.egg-info/SOURCES.txt'
+[1.767s] running build
+[1.767s] running build_py
+[1.767s] creating /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/build
+[1.767s] creating /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/build/lib
+[1.767s] creating /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/build/lib/turtlesim_project
+[1.767s] copying turtlesim_project/turtle_controller.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/build/lib/turtlesim_project
+[1.767s] copying turtlesim_project/__init__.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/build/lib/turtlesim_project
+[1.768s] running install
+[1.768s] running install_lib
+[1.768s] creating /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/lib/python3.10/site-packages/turtlesim_project
+[1.768s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/build/lib/turtlesim_project/turtle_controller.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/lib/python3.10/site-packages/turtlesim_project
+[1.768s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/build/lib/turtlesim_project/__init__.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/lib/python3.10/site-packages/turtlesim_project
+[1.769s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/lib/python3.10/site-packages/turtlesim_project/turtle_controller.py to turtle_controller.cpython-310.pyc
+[1.770s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/lib/python3.10/site-packages/turtlesim_project/__init__.py to __init__.cpython-310.pyc
+[1.770s] running install_data
+[1.770s] creating /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/share/ament_index
+[1.771s] creating /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/share/ament_index/resource_index
+[1.771s] creating /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/share/ament_index/resource_index/packages
+[1.771s] copying resource/turtlesim_project -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/share/ament_index/resource_index/packages
+[1.771s] copying package.xml -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/share/turtlesim_project
+[1.771s] running install_egg_info
+[1.773s] Copying ../../build/turtlesim_project/turtlesim_project.egg-info to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/lib/python3.10/site-packages/turtlesim_project-0.0.0-py3.10.egg-info
+[1.774s] running install_scripts
+[1.804s] Installing turtle_controller script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/lib/turtlesim_project
+[1.804s] writing list of installed files to '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/install.log'
+[1.844s] Invoked command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/src/turtlesim_project' returned '0': PYTHONPATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlesim_project build --build-base /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/build install --record /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/install.log --single-version-externally-managed install_data

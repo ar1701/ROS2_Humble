@@ -1,0 +1,66 @@
+[1.006s] Invoking command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg': CMAKE_PREFIX_PATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_robot_interfaces:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_robot_bringup:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg PYTHONPATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build
+[1.374s] running develop
+[1.375s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.375s]   warnings.warn(
+[1.609s] Removing /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[1.644s] Invoked command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg' returned '0': CMAKE_PREFIX_PATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_robot_interfaces:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_robot_bringup:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg PYTHONPATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build
+[1.646s] Invoking command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/src/my_py_pkg': CMAKE_PREFIX_PATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_robot_interfaces:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_robot_bringup:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg PYTHONPATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build install --record /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data --force
+[1.960s] running egg_info
+[1.961s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[1.961s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[1.962s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[1.962s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[1.963s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[1.966s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.968s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.968s] running build
+[1.968s] running build_py
+[1.969s] copying my_py_pkg/robot_news_station.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.970s] copying my_py_pkg/number_counter.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.970s] copying my_py_pkg/template_node.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.970s] copying my_py_pkg/led_status_node.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.970s] copying my_py_pkg/battery.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.971s] running install
+[1.971s] running install_lib
+[1.972s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_client_no_oop.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.974s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_client.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.974s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/robot_news_station.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.975s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/smartphone.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.976s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/number_counter.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.976s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/template_node.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.976s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/led_status_node.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.976s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/my_first_node.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.976s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/hw_status_publisher.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.976s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_server.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.977s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/__init__.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.977s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/battery.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.977s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_two_ints_client_no_oop.py to add_two_ints_client_no_oop.cpython-310.pyc
+[1.978s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_two_ints_client.py to add_two_ints_client.cpython-310.pyc
+[1.978s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/robot_news_station.py to robot_news_station.cpython-310.pyc
+[1.979s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/smartphone.py to smartphone.cpython-310.pyc
+[1.979s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/number_counter.py to number_counter.cpython-310.pyc
+[1.980s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/template_node.py to template_node.cpython-310.pyc
+[1.980s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/led_status_node.py to led_status_node.cpython-310.pyc
+[1.981s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/my_first_node.py to my_first_node.cpython-310.pyc
+[1.982s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/hw_status_publisher.py to hw_status_publisher.cpython-310.pyc
+[1.982s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_two_ints_server.py to add_two_ints_server.cpython-310.pyc
+[1.983s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__init__.py to __init__.cpython-310.pyc
+[1.983s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/battery.py to battery.cpython-310.pyc
+[1.984s] running install_data
+[1.985s] copying resource/my_py_pkg -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[1.985s] copying package.xml -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/share/my_py_pkg
+[1.985s] running install_egg_info
+[1.988s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[1.989s] running install_scripts
+[2.014s] Installing add_two_ints_client script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.015s] Installing add_two_ints_client_no_oop script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.015s] Installing add_two_ints_server script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.015s] Installing battery_node script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.015s] Installing hw_status_publisher script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.015s] Installing led_status_node script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.016s] Installing number_counter script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.016s] Installing py_node script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.016s] Installing robot_news_station script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.016s] Installing smartphone script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[2.016s] writing list of installed files to '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/install.log'
+[2.048s] Invoked command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/src/my_py_pkg' returned '0': CMAKE_PREFIX_PATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_robot_interfaces:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_robot_bringup:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_cpp_pkg PYTHONPATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build install --record /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data --force

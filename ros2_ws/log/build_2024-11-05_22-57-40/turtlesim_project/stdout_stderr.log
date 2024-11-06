@@ -1,0 +1,19 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+writing turtlesim_project.egg-info/PKG-INFO
+writing dependency_links to turtlesim_project.egg-info/dependency_links.txt
+writing entry points to turtlesim_project.egg-info/entry_points.txt
+writing requirements to turtlesim_project.egg-info/requires.txt
+writing top-level names to turtlesim_project.egg-info/top_level.txt
+reading manifest file 'turtlesim_project.egg-info/SOURCES.txt'
+writing manifest file 'turtlesim_project.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/lib/python3.10/site-packages/turtlesim-project.egg-link (link to .)
+Installing turtle_controller script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/lib/turtlesim_project
+
+Installed /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project
+running symlink_data
+symbolically linking /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/resource/turtlesim_project -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/share/ament_index/resource_index/packages
+symbolically linking /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/turtlesim_project/package.xml -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/turtlesim_project/share/turtlesim_project

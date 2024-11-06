@@ -1,0 +1,29 @@
+[0.725s] Invoking command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/src/my_py_pkg': PYTHONPATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build install --record /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data
+[0.986s] running egg_info
+[0.987s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[0.987s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[0.987s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[0.987s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[0.987s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[0.989s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.993s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.993s] running build
+[0.993s] running build_py
+[0.993s] copying my_py_pkg/my_first_node.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[0.993s] running install
+[0.993s] running install_lib
+[0.994s] copying /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/my_first_node.py -> /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.994s] byte-compiling /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/my_first_node.py to my_first_node.cpython-310.pyc
+[0.995s]   File "/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/my_first_node.py", line 15
+[0.995s]     self.get_logger().info("Hello to the World, " str(self.counter_))
+[0.995s]                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[0.995s] SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[0.995s] 
+[0.995s] running install_data
+[0.995s] running install_egg_info
+[0.996s] removing '/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.997s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[0.998s] running install_scripts
+[1.017s] Installing py_node script to /home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.018s] writing list of installed files to '/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/install.log'
+[1.041s] Invoked command in '/home/ayush/Desktop/Learning_ROS2/ros2_ws/src/my_py_pkg' returned '0': PYTHONPATH=/home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ayush/Desktop/Learning_ROS2/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/build install --record /home/ayush/Desktop/Learning_ROS2/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data

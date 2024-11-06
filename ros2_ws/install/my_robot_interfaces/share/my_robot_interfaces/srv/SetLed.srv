@@ -1,0 +1,6 @@
+int64 led_number
+int64 state
+
+---
+string status_message
+bool success
